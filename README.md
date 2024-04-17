@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://github.com/Ruslanity/Ruslanity/blob/main/assets/header.PNG"  />
+  <img height="300" width="600" src="https://github.com/Ruslanity/Ruslanity/blob/main/assets/Header.PNG"  />
 </div>
 
 <h1 align="center">Привет, Меня зовут Руслан!</h1>

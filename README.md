@@ -15,7 +15,7 @@
 
 <h3 align="left">  Обо мне</h3>
 
-<p align="left">Я начинающий Software Engineer. Мой путь в it начался с автоматизации процессов в машиностроении, участвовал в разработке плагинов. После после я стал изучать C# на площадке ITVDN. По диплому я инженер-конструктор машиностроения, в своей работе писал небольшие плагины для автоматизации работы, понял что меня прет от программирования. В настроящий момент дальше изучаю платформу .NET, начал изучать ASP.NET.</p>
+<p align="left">Я начинающий Software Engineer. Мой путь в it начался с автоматизации процессов в машиностроении, участвовал в разработке плагинов. После я стал изучать C# на площадке ITVDN. По диплому я инженер-конструктор машиностроения, в своей работе писал небольшие плагины для автоматизации работы, понял что меня прет от программирования. В настроящий момент дальше изучаю платформу .NET, начал изучать ASP.NET.</p>
 <br>
 - Участвовал в коммерческой разработке плагина, видео на youtube.
 <br>
@@ -28,5 +28,4 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <div align="center">
 
-  
 </div>
